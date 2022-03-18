@@ -1,13 +1,13 @@
 {
-  "name": "Yukki Music Bot",
-  "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
+  "name": "TESSA MUSIC BOT",
+  "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and TESSA MUSIC.",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
-  "Yukki",
-  "YukkiMusicBot",
+  "TESSA",
+  "TESSA MUSIC BOT",
   "telegram-bot",
   "pyrogram"
   ],
